@@ -1,0 +1,7 @@
+{
+  "trailingComma": "es5",
+  "semi": false,
+  "singleQuote": true,
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false
+}
